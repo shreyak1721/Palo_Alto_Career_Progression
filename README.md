@@ -209,6 +209,14 @@ These indicators are intended to support further HR analysis and investigation.
 
 An interactive Streamlit dashboard was developed to explore the results.
 
+The project includes an interactive Streamlit dashboard for exploring career
+progression patterns, promotion gaps, retention opportunities, training needs,
+and managerial stability.
+
+### Dashboard Preview
+
+![Streamlit Dashboard](dashboard_screenshot.png)
+
 ### Filters
 
 - Department
