@@ -217,6 +217,11 @@ and managerial stability.
 
 ![Streamlit Dashboard](dashboard_screenshot.png)
 
+### 🚀 Live Dashboard
+
+[Open the Career Progression Dashboard](https://palo-alto-career-progression.streamlit.app/)
+
+
 ### Filters
 
 - Department
